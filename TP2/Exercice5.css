@@ -1,0 +1,74 @@
+.big{
+    border: 1px solid black;
+    padding: 2px;
+    text-align: center;
+    width: max-content;
+}
+.small{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+
+}
+.first{
+    display: flex;
+    padding: 2px;
+
+}
+.second{
+    display: flex;
+    padding: 2px;
+}
+.yellow{
+    padding: 30px;
+    width: 100px;
+    background-color: yellow;
+}
+.blue{
+    padding: 30px;
+    width: 100px;
+    background-color: blue;
+
+}
+.red{
+    padding: 30px;
+    width: 100px;
+    background-color: red;
+}
+.purple{
+    padding: 30px;
+    width: 100px;
+    background-color: purple;
+
+
+}
+.black{
+    padding: 30px;
+    width: 100px;
+    background-color: black;
+}
+.orange{
+    padding: 30px;
+    width: 100px;
+    background-color: orange;
+}
+.cian{
+    padding: 30px;
+    width: 100px;
+    background-color:cornsilk;
+}
+.aqua{
+    padding: 30px;
+    width: 100px;
+    background-color: aqua;
+}
+.bisque{
+    padding: 30px;
+    width: 100px;
+    background-color: bisque;
+}
+.blueviolet{
+    padding: 30px;
+    width: 100px;
+    background-color: blueviolet;
+}
